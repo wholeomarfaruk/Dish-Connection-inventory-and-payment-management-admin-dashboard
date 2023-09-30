@@ -1,0 +1,14 @@
+.btn-added {
+    background: #ff9f43;
+    padding: 7px 15px;
+    color: #fff;
+    font-weight: 700;
+    font-size: 14px;
+}
+.btn-added img {
+    filter: brightness(0) invert(1);
+}
+.btn-added{
+    display: flex;
+    align-items: center;
+}
